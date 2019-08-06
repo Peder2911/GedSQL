@@ -1,0 +1,5 @@
+
+A Dockerfile for running a PostgreSQL database serving Ged data.
+
+Login with user mihai / pwd letmein
+
